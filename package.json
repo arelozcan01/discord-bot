@@ -1,0 +1,14 @@
+{
+  "name": "lumina-bot",
+  "version": "1.0.0",
+  "description": "LuminaStudios Discord Bot with Groq API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "dotenv": "^16.6.1",
+    "groq-sdk": "^0.5.0"
+  }
+}
